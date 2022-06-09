@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "ReleaseNotes": "Tem Uma Nova Atualizacao Disponivel",
-  "UrlUpdate": "https://bitbin.it/EHG0dVgR/raw/",
+  "UrlUpdate": "https://github.com/NDsVPN/NDsElite4G/edit/main/README.md",
   "Sms": "https://bitbin.it/y2bmhfO9/raw/",
   "EmailFeedback": "NDs@gmail.com",
   "UrlContato": "https://t.me/Silva_G4",
@@ -27,7 +27,7 @@
   ],
   "Networks": [
     {
-      "Name": "💚VIVO [DIRECT 1]",
+      "Name": "💚VIVO gitgub [DIRECT 1]",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
